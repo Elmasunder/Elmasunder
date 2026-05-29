@@ -54,7 +54,6 @@ narrative interfaces · system tooling · modular architecture
 ![Tailwind](https://img.shields.io/badge/Tailwind4-styling-6E7BFF?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=050505)
 ![TypeScript](https://img.shields.io/badge/TypeScript-typed-8A5CFF?style=flat-square&logo=typescript&logoColor=white&labelColor=050505)
 ![GitKraken](https://img.shields.io/badge/GitKraken-vcs-6E7BFF?style=flat-square&logo=gitkraken&logoColor=white&labelColor=050505)
-![Repos](https://img.shields.io/badge/repos-3_public-B8C0CC?style=flat-square&logo=github&logoColor=white&labelColor=050505)
 ![Location](https://img.shields.io/badge/location-Marseille,_FR-6E7BFF?style=flat-square&logoColor=white&labelColor=050505)
 
 ---
