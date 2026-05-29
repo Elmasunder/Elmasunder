@@ -34,7 +34,7 @@
 
 **[BNVANGUARD](https://github.com/Elmasunder/BNVANGUARD)** — enterprise-grade system purge utility.
 Surgical removal of kernel-level drivers, registry entries & active processes from Windows.
-Built for those who want their system back. PowerShell · Ring 0 · v2.0.0
+Built for those who want their system back. PowerShell · Ring 0 · v2.3.1
 
 ---
 
