@@ -14,10 +14,7 @@
 
 <img src="https://i.ibb.co/W4rSpfGS/elmalogo.png" alt="elmasunder banner" width="180px"/>
 
-_currently building immersive digital experiences from github and soundcloud
-```
-https://soundcloud.com/winr8
-```
+*currently building immersive digital experiences from Marseille, France.*
 
 </div>
 
@@ -52,8 +49,13 @@ narrative interfaces · system tooling · modular architecture
 
 ### `// STATS`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasunder&layout=compact&theme=dark&bg_color=050505&title_color=6E7BFF&text_color=B8C0CC&border_color=1A1A2E&hide_border=true&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elmasunder&show_icons=true&theme=dark&bg_color=050505&title_color=6E7BFF&text_color=B8C0CC&icon_color=8A5CFF&border_color=1A1A2E&hide_border=true&hide=contribs&show=reviews,discussions_started)
+![PowerShell](https://img.shields.io/badge/PowerShell-100%25-6E7BFF?style=flat-square&logo=powershell&logoColor=white&labelColor=050505)
+![Vue](https://img.shields.io/badge/Vue3-frontend-8A5CFF?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=050505)
+![Tailwind](https://img.shields.io/badge/Tailwind4-styling-6E7BFF?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=050505)
+![TypeScript](https://img.shields.io/badge/TypeScript-typed-8A5CFF?style=flat-square&logo=typescript&logoColor=white&labelColor=050505)
+![GitKraken](https://img.shields.io/badge/GitKraken-vcs-6E7BFF?style=flat-square&logo=gitkraken&logoColor=white&labelColor=050505)
+![Repos](https://img.shields.io/badge/repos-3_public-B8C0CC?style=flat-square&logo=github&logoColor=white&labelColor=050505)
+![Location](https://img.shields.io/badge/location-Marseille,_FR-6E7BFF?style=flat-square&logoColor=white&labelColor=050505)
 
 ---
 
@@ -80,6 +82,6 @@ bnvanguard  → github.com/Elmasunder/BNVANGUARD
 
 <div align="center">
 
-_whoisELMA?_
+*whoisELMA?*
 
 </div>
